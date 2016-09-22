@@ -3,6 +3,9 @@ yige.ai可以看做中文版api.ai，由世纪佳缘构建
 
 这里存下官方的示例demo
 
+# 文档
+http://docs.yige.ai/
+
 # 使用
 把当前文件夹打包为zip文件上传到网站应用即可
 
